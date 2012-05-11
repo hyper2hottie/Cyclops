@@ -1,7 +1,6 @@
-//Matt added a comment
-
 package xmen.datainputs.cyclops;
 
+import xmen.datainputs.cyclops.R;
 import android.app.Activity;
 import android.os.Bundle;
 
