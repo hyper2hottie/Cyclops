@@ -1,4 +1,4 @@
-package xmen.datainputs.cyclops;
+package xmen.cyclops.datainputs;
 
 import xmen.datainputs.cyclops.R;
 import android.app.Activity;

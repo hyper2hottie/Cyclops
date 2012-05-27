@@ -1,4 +1,4 @@
-package xmen.datainputs.cyclops.fragments;
+package xmen.cyclops.datainputs.fragments;
 
 import android.app.Fragment;
 
